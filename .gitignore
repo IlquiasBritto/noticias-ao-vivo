@@ -1,0 +1,6 @@
+# Ignora os arquivos de build
+build/
+dist/
+
+# Ignora arquivos sensíveis, como variáveis de ambiente
+.env
